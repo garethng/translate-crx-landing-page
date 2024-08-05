@@ -1,9 +1,9 @@
 {
   "Hero": {
-    "title1": "Ship",
-    "title2": "Landing Page",
-    "title3": "Fast",
-    "description": "A free, open-source, and powerful landing page boilerplate, ideal for various projects, enabling you to create a landing page in under an hour."
+    "title1": "Translate with Ease \n",
+    "title2": "Input Pilot\n",
+    "title3": "Empower Your Text Box",
+    "description": "Supercharge Your Productivity: AI-powered Translation for Any Input Box with our Open-Source Browser Extension."
   },
   "SocialProof": {
     "maker": "makers ship fast"
@@ -42,6 +42,11 @@
     "description6": "!"
   },
   "CTAButton": {
-    "title": "Get Boilerplate"
+    "title": "Avaliable in the ",
+    "store": "Chrome Web Store"
+  },
+  "CTAButtonEdge": {
+    "title": "Avaliable in the ",
+    "store": "Edge adds-on"
   }
 }

@@ -43,10 +43,7 @@
   },
   "CTAButton": {
     "title": "Avaliable in the ",
-    "store": "Chrome Web Store"
-  },
-  "CTAButtonEdge": {
-    "title": "Avaliable in the ",
-    "store": "Edge adds-on"
+    "storeChrome": "Chrome Web Store",
+    "storeEdge": "Microsoft Edge adds-on"
   }
 }
